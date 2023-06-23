@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Tomas FACET\\3erAño\\Taller 1\\tl1_tp9_2023-TomasDLV\\tl1_tp9_2023-TomasDLV.csproj": {}
+  },
+  "projects": {
+    "E:\\Tomas FACET\\3erAño\\Taller 1\\tl1_tp9_2023-TomasDLV\\tl1_tp9_2023-TomasDLV.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Tomas FACET\\3erAño\\Taller 1\\tl1_tp9_2023-TomasDLV\\tl1_tp9_2023-TomasDLV.csproj",
+        "projectName": "tl1_tp9_2023-TomasDLV",
+        "projectPath": "E:\\Tomas FACET\\3erAño\\Taller 1\\tl1_tp9_2023-TomasDLV\\tl1_tp9_2023-TomasDLV.csproj",
+        "packagesPath": "C:\\Users\\TomasDLV\\.nuget\\packages\\",
+        "outputPath": "E:\\Tomas FACET\\3erAño\\Taller 1\\tl1_tp9_2023-TomasDLV\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TomasDLV\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

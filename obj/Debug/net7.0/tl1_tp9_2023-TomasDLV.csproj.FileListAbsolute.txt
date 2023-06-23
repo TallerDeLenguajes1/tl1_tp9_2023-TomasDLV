@@ -1,0 +1,15 @@
+E:\Tomas FACET\3erAño\Taller 1\tl1_tp9_2023-TomasDLV\bin\Debug\net7.0\tl1_tp9_2023-TomasDLV.exe
+E:\Tomas FACET\3erAño\Taller 1\tl1_tp9_2023-TomasDLV\bin\Debug\net7.0\tl1_tp9_2023-TomasDLV.deps.json
+E:\Tomas FACET\3erAño\Taller 1\tl1_tp9_2023-TomasDLV\bin\Debug\net7.0\tl1_tp9_2023-TomasDLV.runtimeconfig.json
+E:\Tomas FACET\3erAño\Taller 1\tl1_tp9_2023-TomasDLV\bin\Debug\net7.0\tl1_tp9_2023-TomasDLV.dll
+E:\Tomas FACET\3erAño\Taller 1\tl1_tp9_2023-TomasDLV\bin\Debug\net7.0\tl1_tp9_2023-TomasDLV.pdb
+E:\Tomas FACET\3erAño\Taller 1\tl1_tp9_2023-TomasDLV\obj\Debug\net7.0\tl1_tp9_2023-TomasDLV.csproj.AssemblyReference.cache
+E:\Tomas FACET\3erAño\Taller 1\tl1_tp9_2023-TomasDLV\obj\Debug\net7.0\tl1_tp9_2023-TomasDLV.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tomas FACET\3erAño\Taller 1\tl1_tp9_2023-TomasDLV\obj\Debug\net7.0\tl1_tp9_2023-TomasDLV.AssemblyInfoInputs.cache
+E:\Tomas FACET\3erAño\Taller 1\tl1_tp9_2023-TomasDLV\obj\Debug\net7.0\tl1_tp9_2023-TomasDLV.AssemblyInfo.cs
+E:\Tomas FACET\3erAño\Taller 1\tl1_tp9_2023-TomasDLV\obj\Debug\net7.0\tl1_tp9_2023-TomasDLV.csproj.CoreCompileInputs.cache
+E:\Tomas FACET\3erAño\Taller 1\tl1_tp9_2023-TomasDLV\obj\Debug\net7.0\tl1_tp9_2023-TomasDLV.dll
+E:\Tomas FACET\3erAño\Taller 1\tl1_tp9_2023-TomasDLV\obj\Debug\net7.0\refint\tl1_tp9_2023-TomasDLV.dll
+E:\Tomas FACET\3erAño\Taller 1\tl1_tp9_2023-TomasDLV\obj\Debug\net7.0\tl1_tp9_2023-TomasDLV.pdb
+E:\Tomas FACET\3erAño\Taller 1\tl1_tp9_2023-TomasDLV\obj\Debug\net7.0\tl1_tp9_2023-TomasDLV.genruntimeconfig.cache
+E:\Tomas FACET\3erAño\Taller 1\tl1_tp9_2023-TomasDLV\obj\Debug\net7.0\ref\tl1_tp9_2023-TomasDLV.dll
